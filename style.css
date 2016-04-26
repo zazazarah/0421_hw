@@ -1,0 +1,34 @@
+body { 
+	padding-top: 70px; 
+}
+
+.container {
+	max-width: 800px;
+}
+
+.list-group {
+	width: 250px;
+	float: right;
+}
+
+.jumbotron {
+	width: 800px;
+}
+
+.divider {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-top: #ccc 1px solid;
+}
+
+/*.container {
+    margin-top:40px;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    overflow:hidden;
+}*/
+
+.pull-right {
+	float: right !important;
+}
